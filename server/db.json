@@ -1,0 +1,56 @@
+{
+	"products": [
+		{
+			"idProduct": 1,
+			"productName": "The Legend of Zelda: Breath of the Wild",
+			"thumbnail": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1200/ncom/software/switch/70010000000025/7137262b5a64d921e193653f8aa0b722925abc5680380ca0e18a5cfd91697f58",
+			"price": 59.99,
+			"offer": 49.99,
+			"description": "An epic open-world adventure game for the Nintendo Switch.",
+			"platform": "nintendo",
+			"maxSell": 100,
+			"inventory": 50
+		},
+		{
+			"idProduct": 2,
+			"productName": "Halo Infinite",
+			"thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240440/ss_139cc855c27fe902e58ba8e7af0aad1aee6ac876.1920x1080.jpg?t=1719939671",
+			"price": 69.99,
+			"description": "The latest installment in the Halo franchise.",
+			"platform": "xbox",
+			"maxSell": 200,
+			"inventory": 75
+		},
+		{
+			"idProduct": 3,
+			"productName": "God of War: Ragnarok",
+			"thumbnail": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/aqZdSwWyy9JcQ66BxHDKrky6.jpg?w=1920&thumb=false",
+			"price": 59.99,
+			"offer": null,
+			"description": "An action-adventure game following the journey of Kratos and Atreus.",
+			"platform": "playstation",
+			"maxSell": 150,
+			"inventory": 80
+		},
+		{
+			"idProduct": 4,
+			"productName": "Cyberpunk 2077",
+			"thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_4bda6f67580d94832ed2d5814e41ebe018ba1d9e.jpg?t=1721647847",
+			"price": 49.99,
+			"offer": 39.99,
+			"platform": "pc",
+			"maxSell": 300,
+			"inventory": 120
+		},
+		{
+			"idProduct": 5,
+			"productName": "Genshin Impact",
+			"thumbnail": "https://fastcdn.hoyoverse.com/mi18n/hk4e_global/m20240710hy39d0ajuo/upload/17ac7eb5a0af74d2361b95ad92b77a98_7128011772409797594.jpg?x-oss-process=image/format,webp/quality,Q_90",
+			"price": 0,
+			"description": "An open-world action RPG game with gacha mechanics.",
+			"platform": "mobile",
+			"maxSell": 500,
+			"inventory": 1000
+		}
+	]
+}
